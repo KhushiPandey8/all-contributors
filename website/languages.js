@@ -181,5 +181,10 @@ const languages = [
     name: '繁體中文',
     tag: 'zh-TW',
   },
+  {
+    enabled: true,
+    name: 'हिन्दी',
+    tag: 'hi', // Added Hindi (हिन्दी)
+  },
 ];
 module.exports = languages;
