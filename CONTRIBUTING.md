@@ -11,3 +11,4 @@ Read the contributing docs in:
 - <a href="https://allcontributors.org/docs/pl/project/contribute">Polski</a>
 - <a href="https://allcontributors.org/docs/ru/project/contribute">Русский</a>
 - <a href="https://allcontributors.org/docs/ja/project/contribute">日本語</a>
+- <a href="https://allcontributors.org/docs/hi/project/contribute">हिन्दी</a> <!-- Added Hindi -->
