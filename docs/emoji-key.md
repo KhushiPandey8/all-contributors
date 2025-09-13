@@ -1,10 +1,9 @@
----
 id: emoji-key
 title: Emoji Key ✨ (and Contribution Types)
 sidebar_label: Emoji Key ✨
 ---
 
-# Emoji Key ✨ (Contribution Types)
+## Emoji Key ✨ (Contribution Types)
 
 This document serves as a guide for recognizing different types of contributions to the project. To ensure your contribution is properly acknowledged, use the appropriate keyword in the `Type` column when submitting contributions via the [Bot](bot/overview) or [CLI](cli/overview). The bot also uses [Natural Language Parsing](https://github.com/all-contributors/app/blob/master/lib/parse-comment.js) to identify your contribution type.
 
@@ -52,5 +51,3 @@ Once you’ve contributed, check out the following resources to further your con
 
 - [Notes for Repository Maintainers](repository-maintainers)
 - [Automating the Process Using Tools](tooling)
-
-
