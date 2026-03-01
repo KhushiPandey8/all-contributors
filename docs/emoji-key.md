@@ -27,7 +27,7 @@ If the user is not already listed as a contributor, they will be added. If they 
 ## Natural Language Processing
 
 The bot uses basic Natural Language Parsing to determine contribution intent:
-https://github.com/all-contributors/app/blob/main/lib/parse-comment.js
+[parse-comment.js](https://github.com/all-contributors/app/blob/main/lib/parse-comment.js)
 
 ---
 
